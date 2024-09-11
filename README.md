@@ -1,5 +1,5 @@
 # Specializing-LLMs-for-Telecom-Datasets
-This project was based on a zindi.com competiton https://zindi.africa/competitions/specializing-large-language-models-for-telecom-networks
+This project was based on a zindi.com competition https://zindi.africa/competitions/specializing-large-language-models-for-telecom-networks
 
 In the project, first a Retrieval Augmented Generation Module is created. This is done by using 3GPP Release 18 documents.
 Using this external source, the final combined source is splitted into chunks of size 1000.
